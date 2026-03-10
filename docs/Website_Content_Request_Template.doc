@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Website Content Request Template</title>
+<style>
+  body{font-family: Arial, Helvetica, sans-serif; color:#111; line-height:1.35;}
+  h1{font-size:22pt; margin-bottom:6px}
+  h2{font-size:16pt; margin-top:18px}
+  h3{font-size:13pt}
+  p{margin:6px 0}
+  .section{margin-bottom:14px}
+  .example{color:#555; font-style:italic}
+  table{border-collapse:collapse; width:100%; margin:8px 0}
+  th,td{border:1px solid #bbb; padding:6px; text-align:left; vertical-align:top}
+  .small{font-size:10pt; color:#444}
+  .placeholder{background:#f7f7f7; padding:8px; border:1px dashed #ccc}
+</style>
+</head>
+<body>
+<h1>Website Content Request — Module-wise Template</h1>
+<p class="small">Use this form to provide final or updated content for your website. For images, please attach files separately and reference the filename below.</p>
+<hr/>
+<div class="section">
+  <h2>Project & Client Details</h2>
+  <table>
+    <tr><th>Project Name</th><td>[Client to fill here]</td></tr>
+    <tr><th>Website URL (if live)</th><td>[Client to fill here]</td></tr>
+    <tr><th>Primary Contact Name</th><td>[Client to fill here]</td></tr>
+    <tr><th>Contact Email</th><td>[Client to fill here]</td></tr>
+    <tr><th>Contact Phone</th><td>[Client to fill here]</td></tr>
+    <tr><th>Date</th><td>[Client to fill here]</td></tr>
+  </table>
+</div>
+
+<div class="section">
+  <h2>Home Page</h2>
+  <h3>Main Banner</h3>
+  <p><strong>What is required:</strong> Hero heading, subheading, banner image, CTA button text and link.</p>
+  <p><strong>Format:</strong> Heading (text); Subheading (text); Image: JPG/PNG, max 2000px width, ratio 16:9; Button: Text + full URL.</p>
+  <p class="example">Example: Heading: "Smile with Confidence"; Subheading: "Dental care for all ages"; Button: "Book Now" → https://example.com/book</p>
+  <p class="placeholder">Hero Heading: [Client to fill here]</p>
+  <p class="placeholder">Hero Subheading: [Client to fill here]</p>
+  <p class="placeholder">Banner Image Filename(s) (specify): [Client to fill here]</p>
+  <p class="placeholder">CTA Button Text: [Client to fill here] &nbsp;&nbsp; CTA Link (full URL): [Client to fill here]</p>
+
+  <h3>Short Introduction</h3>
+  <p><strong>What is required:</strong> Brief intro for home page.</p>
+  <p><strong>Format:</strong> Paragraph, 100–150 words.</p>
+  <p class="example">Example: "At Smile Clinic we offer modern dental care..."</p>
+  <p class="placeholder">Short Introduction (100–150 words): [Client to fill here]</p>
+
+  <h3>Key Highlights</h3>
+  <p><strong>What is required:</strong> 3–5 bullet points highlighting USPs.</p>
+  <p class="placeholder">1. [Client to fill here]<br/>2. [Client to fill here]<br/>3. [Client to fill here]<br/>4. [Client to fill here]<br/>5. [Client to fill here]</p>
+</div>
+
+<div class="section">
+  <h2>About Us</h2>
+  <p><strong>Company Overview</strong> — short paragraph (150–200 words)</p>
+  <p class="placeholder">[Client to fill here]</p>
+  <p><strong>Vision & Mission</strong></p>
+  <p class="placeholder">Vision: [Client to fill here]</p>
+  <p class="placeholder">Mission: [Client to fill here]</p>
+  <p><strong>Core Values</strong> — list 3–6</p>
+  <p class="placeholder">1. [Client to fill here]  2. [Client to fill here]  3. [Client to fill here]</p>
+
+  <h3>Team Details</h3>
+  <p><strong>Format:</strong> Table with columns: Name | Designation | Short Bio (25–40 words) | Photo filename (JPG/PNG, square preferred)</p>
+  <table>
+    <tr><th>Name</th><th>Designation</th><th>Short Bio (25–40 words)</th><th>Photo Filename</th></tr>
+    <tr><td>[Client to fill here]</td><td>[Client to fill here]</td><td>[Client to fill here]</td><td>[Client to fill here]</td></tr>
+    <tr><td>[Client to fill here]</td><td>[Client to fill here]</td><td>[Client to fill here]</td><td>[Client to fill here]</td></tr>
+  </table>
+</div>
+
+<div class="section">
+  <h2>Services (Repeat for each service)</h2>
+  <p><strong>Instruction:</strong> Copy this service block for each service you offer and fill separately.</p>
+
+  <h3>Service — Block</h3>
+  <p><strong>Service Name:</strong> <span class="placeholder">[Client to fill here]</span></p>
+  <p><strong>Short Description (50–80 words):</strong></p>
+  <p class="placeholder">[Client to fill here]</p>
+  <p><strong>Detailed Description (200–300 words):</strong></p>
+  <p class="placeholder">[Client to fill here]</p>
+  <p><strong>Icon / Image Filename(s):</strong> Provide file names and preferred placement; formats JPG/PNG/SVG. Recommended size: 200x200px (icon) or 1200px width (hero image).</p>
+  <p class="placeholder">Icon/Image filename(s): [Client to fill here]</p>
+  <p><strong>Call to action (Text & Link):</strong></p>
+  <p class="placeholder">Text: [Client to fill here] &nbsp;&nbsp; Link: [Client to fill here]</p>
+  <hr/>
+
+  <p class="small">Repeat service block as many times as needed.</p>
+</div>
+
+<div class="section">
+  <h2>Testimonials</h2>
+  <p><strong>For each testimonial provide:</strong></p>
+  <table>
+    <tr><th>Client Name</th><th>Company</th><th>Feedback</th><th>Photo Filename (optional)</th></tr>
+    <tr><td>[Client to fill here]</td><td>[Client to fill here]</td><td>[Client to fill here]</td><td>[Client to fill here]</td></tr>
+  </table>
+</div>
+
+<div class="section">
+  <h2>Gallery / Case Studies</h2>
+  <p><strong>What is required:</strong> Image files with captions. Provide filenames and short caption (10–15 words).</p>
+  <table>
+    <tr><th>Image Filename</th><th>Caption</th><th>Preferred Placement</th></tr>
+    <tr><td>[Client to fill here]</td><td>[Client to fill here]</td><td>[Client to fill here]</td></tr>
+  </table>
+</div>
+
+<div class="section">
+  <h2>Blog / Articles</h2>
+  <p><strong>What is required:</strong> Title, short excerpt (20–30 words), full article content, featured image filename, author name, publish date (if desired).</p>
+  <table>
+    <tr><th>Title</th><th>Excerpt</th><th>Full Content</th><th>Image Filename</th><th>Author</th></tr>
+    <tr><td>[Client to fill here]</td><td>[Client to fill here]</td><td>[Client to fill here]</td><td>[Client to fill here]</td><td>[Client to fill here]</td></tr>
+  </table>
+</div>
+
+<div class="section">
+  <h2>Contact Details</h2>
+  <p><strong>Address:</strong></p>
+  <p class="placeholder">[Client to fill here]</p>
+  <p><strong>Phone (Formatted):</strong></p>
+  <p class="placeholder">[Client to fill here] (example: +1 234 567 890)</p>
+  <p><strong>Email:</strong></p>
+  <p class="placeholder">[Client to fill here]</p>
+  <p><strong>Social Media Links (full URLs):</strong></p>
+  <p class="placeholder">Facebook: [Client to fill here] • Instagram: [Client to fill here] • LinkedIn: [Client to fill here] • X/Twitter: [Client to fill here]</p>
+  <p><strong>Google Map location link:</strong></p>
+  <p class="placeholder">[Client to fill here]</p>
+</div>
+
+<div class="section">
+  <h2>Footer</h2>
+  <p><strong>What is required:</strong> Small copyright text, quick links, privacy policy link, terms link.</p>
+  <p class="placeholder">Copyright text: [Client to fill here]</p>
+  <p class="placeholder">Quick links (comma separated): [Client to fill here]</p>
+</div>
+
+<div class="section">
+  <h2>Any Edits / Changes Required (General)</h2>
+  <p>List page name and clearly describe required change so our team can apply it quickly.</p>
+  <table>
+    <tr><th>Page Name</th><th>Description of Required Change</th><th>Priority (High/Med/Low)</th></tr>
+    <tr><td>[Client to fill here]</td><td>[Client to fill here]</td><td>[Client to fill here]</td></tr>
+  </table>
+</div>
+
+<div class="section">
+  <h2>Image & File Upload Guidelines</h2>
+  <ul>
+    <li>Preferred image formats: JPG or PNG for photos, SVG for icons when available.</li>
+    <li>Hero / banner images: at least 1200px width, 72–150dpi, JPG/PNG.</li>
+    <li>Team photos: square, 400x400px or higher.</li>
+    <li>Icons: SVG preferred; otherwise 200x200px PNG.</li>
+    <li>Filename format: describe_image_purpose_version.ext (e.g., hero-home-v1.jpg)</li>
+  </ul>
+</div>
+
+<div class="section">
+  <h2>Final Checklist (Please complete before submission)</h2>
+  <ul>
+    <li>All text fields filled or marked "N/A".</li>
+    <li>All image filenames listed and actual image files attached separately.</li>
+    <li>All links provided are full URLs and tested.</li>
+    <li>Contact details verified and formatted correctly.</li>
+    <li>For each service and team member, photos supplied or marked as "No photo".</li>
+    <li>Any edits/changes listed with page name and clear description.</li>
+  </ul>
+</div>
+
+<div class="section">
+  <h2>Notes / Additional Requests</h2>
+  <p class="placeholder">[Client to fill here]</p>
+</div>
+
+<hr/>
+<p class="small">Thank you — please attach any images or files when returning this document. If you prefer, send updates in a single email with filenames matching the fields above.</p>
+</body>
+</html>
